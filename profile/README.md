@@ -19,3 +19,5 @@ Code repositories (repos) may be created for projects or may be used for ongoing
 
 - Public - Accessible to the entire internet.
 - Private - Accessible to designated groups/individuals or external collaborators within the NMIS Group Github organisation.
+
+For repo naming, please refer to [this guide](https://github.com/nmis-group/.github/blob/main/guide--repo-naming-conventions.md).
