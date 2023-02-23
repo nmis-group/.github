@@ -4,7 +4,7 @@ Welcome to the NMIS GitHub organisation!
 Please read this guide before creating repositories, teams, projects or changing aspects of the site.
 
 ### NMIS GitHub Teams
-The NMIS GitHub organisation has been setup to reflect the organisational structure of NMIS. GitHub uses the terms "Teams" for any grouping of people - you can have teams within teams within teams. At the highest level we have the following major teams that align with research groups or directorates:
+The NMIS GitHub organisation has been setup to reflect the organisational structure of NMIS. GitHub uses the terms "Teams" for any grouping of people - you can have teams within teams within teams. At the highest level we have the following major teams that align with research centres or directorates:
 
 - [Advanced Forming Research Centre](https://github.com/orgs/nmis-group/teams/advanced-forming-research-centre)
 - [Data-driven Manufacturing](https://github.com/orgs/nmis-group/teams/data-driven-manufacturing)
