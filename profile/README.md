@@ -20,7 +20,7 @@ Code repositories (repos) may be created for projects or may be used for ongoing
 
 - Public - Accessible to the entire internet. Nothing IP sensitive should be part of a pubic repo.
 - Private - Accessible to designated groups/individuals or external collaborators within the NMIS Group Github organisation.
-- 
-- Please note, since the GitHUb servers are located in the US by default, nothing that would compromise export control, internal NMIS rules or external partner rules should be part of a repo (public or private(. GitHub Enterprise can be purchased to define cloud tenancy within the UK if this becomes an ongoing requirement. Any code that has IP sensitivities should be discussed with your IP champion and if there is any doubt, store code offline on NMIS/University of Strathclyde servers.
+
+Please note, since the GitHUb servers are located in the US by default, nothing that would compromise export control, internal NMIS rules or external partner rules should be part of a repo (public or private(. GitHub Enterprise can be purchased to define cloud tenancy within the UK if this becomes an ongoing requirement. Any code that has IP sensitivities should be discussed with your IP champion and if there is any doubt, store code offline on NMIS/University of Strathclyde servers.
 
 For repo naming, please refer to [this guide](https://github.com/nmis-group/.github/blob/main/guide--repo-naming-conventions.md).
