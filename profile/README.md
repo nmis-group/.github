@@ -23,7 +23,7 @@ Code repositories (repos) may be created for projects or may be used for ongoing
 
 Please note, since the GitHUb servers are located in the US by default, nothing that would compromise export control, internal NMIS rules or external partner rules should be part of a repo (public or private(. GitHub Enterprise can be purchased to define cloud tenancy within the UK if this becomes an ongoing requirement. Any code that has IP sensitivities should be discussed with your IP champion and if there is any doubt, store code offline on NMIS/University of Strathclyde servers.
 
-# Repository Title
+### Repository Naming
 
 The repository should be named as either:
 - Internal NMIS project name - e.g `DIGF_CATP_Example_Project_Name`
