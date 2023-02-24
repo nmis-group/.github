@@ -26,7 +26,7 @@ Please note, since the GitHUb servers are located in the US by default, nothing 
 ### Repository Naming
 
 The repository should be named as either:
-- Internal NMIS project name - e.g `DIGF_CATP_Example_Project_Name`
+- Internal NMIS project name - e.g `digf-catp-01234-example-project-name`
 - Ongoing projects/capability development linked to team that leads the repo - e.g. `ddm-smart-factory-analytics`
 
 Please note, internal projects should us underscores and will include capital letters. Non-internal project repos should be lower case letters with dashes. For for details on repo naming, please refer to [this guide](https://github.com/nmis-group/.github/blob/main/guide--repo-naming-conventions.md).
