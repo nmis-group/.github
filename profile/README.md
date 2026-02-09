@@ -15,6 +15,11 @@ The NMIS GitHub organisation has been setup to reflect the organisational struct
 
 Each functional group can be organised into smaller teams if they desire.
 
+### NMIS Guides
+The following repo is mainly markdown files to described data, servers and software development processes used at NMIS:
+
+- [Guides](https://github.com/nmis-group/guides)
+
 ### Code Repositories
 Code repositories (repos) may be created for projects or may be used for ongoing capability development. Repos may be public or private:
 
