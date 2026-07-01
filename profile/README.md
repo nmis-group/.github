@@ -18,9 +18,9 @@ Each functional group can be organised into smaller teams if they desire.
 ### NMIS Guides
 The following [guides](https://github.com/nmis-group/guides) repo is mainly markdown files to described data, servers and software development processes used at NMIS:
 
-- [Accessing linux servers with command line interface (CLI)](guides/idrive_cli_access_linus.md)
-- [Running local frontier AI models on NMIS infrastructure](guides/running_local_frontier_models.md)
-- [Docker intro for working with linux servers](guides/docker_intro.md)
+- [Accessing linux servers with command line interface (CLI)](https://github.com/nmis-group/guides/blob/main/idrive_cli_access_linus.md)
+- [Running local frontier AI models on NMIS infrastructure](https://github.com/nmis-group/guides/blob/main/running_local_frontier_models.md)
+- [Docker intro for working with linux servers](https://github.com/nmis-group/guides/blob/main/docker_intro.md)
 
 ### Code Repositories
 Code repositories (repos) may be created for projects or may be used for ongoing capability development. Repos may be public or private:
