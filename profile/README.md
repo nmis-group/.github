@@ -9,7 +9,6 @@ The NMIS GitHub organisation has been setup to reflect the organisational struct
 - [Advanced Forming Research Centre](https://github.com/orgs/nmis-group/teams/advanced-forming-research-centre)
 - [Data-driven Manufacturing](https://github.com/orgs/nmis-group/teams/data-driven-manufacturing)
 - [Digital Factory](https://github.com/orgs/nmis-group/teams/digital-factory)
-- [Digital Process Manufacturing Centre](https://github.com/orgs/nmis-group/teams/digital-process-manufacturing-centre)
 - [Manufacturing Skills Academy](https://github.com/orgs/nmis-group/teams/manufacturing-skills-academy)
 
 Each functional group can be organised into smaller teams if they desire.
